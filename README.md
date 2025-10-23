@@ -13,8 +13,6 @@ Here are sample detection results:
 ### Shoplifting Detection Example
 ![Shoplifting Detection](gifs/shoplifting.gif)
 
-### Normal Activity Example
-![Normal Activity](gifs/normal.gif)
 
 > **Note:** Demo videos showcase the model's real-time inference capabilities with overlaid predictions and confidence scores.
 
