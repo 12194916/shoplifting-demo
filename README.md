@@ -1,4 +1,4 @@
-# Shoplifting Detection System
+# Shoplifting Detection System Demo 
 
 A deep learning-based video classification system for detecting shoplifting behavior in surveillance footage using 3D Convolutional Neural Networks (R3D-18).
 
