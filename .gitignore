@@ -1,0 +1,59 @@
+# Data folders - videos are too large to track
+data/
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Model checkpoints - too large for GitHub (use Git LFS or external hosting)
+models/*.pth
+models/*.pt
+
+# Logs
+logs/
+*.log
+
+# Output videos
+output*.mp4
+result*.mp4
+
+# Temporary files
+*.tmp
+*.temp
